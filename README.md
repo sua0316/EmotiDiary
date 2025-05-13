@@ -36,8 +36,8 @@ EmotiDiary는 사용자의 일기 텍스트와 셀카 이미지를 기반으로 
 - matplotlib (시각화 도구)
 
 ## 스크린샷  
-./figma1.png
-./app1.png
+![figma](./figma1.png)
+![app](./app1.png)
 
 ## 실행 방법 (개발용)
 1. 본 리포지토리를 클론합니다  
