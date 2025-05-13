@@ -36,16 +36,8 @@ EmotiDiary는 사용자의 일기 텍스트와 셀카 이미지를 기반으로 
 - matplotlib (시각화 도구)
 
 ## 스크린샷  
-### 감정 캘린더 예시
-![감정 캘린더 예시](./assets/emotion_calendar.png)
-
-### 감정 통계 시각화 예시
-![감정 통계 예시](./assets/emotion_stats.png)
-
-### 감정 분석 결과 예시
-![감정 분석 결과](./assets/emotion_result.png)
-
-> 📁 `assets/` 폴더에 위 이미지들을 넣어주세요.
+./figma1.png
+./app1.png
 
 ## 실행 방법 (개발용)
 1. 본 리포지토리를 클론합니다  
